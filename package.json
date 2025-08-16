@@ -1,0 +1,15 @@
+{
+  "name": "namaste-react-course",
+  "version": "1.0.0",
+  "description": "react course by namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "`jest`"
+  },
+  "keywords": [],
+  "author": "kartavya joshi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}

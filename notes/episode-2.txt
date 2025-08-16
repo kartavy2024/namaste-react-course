@@ -1,0 +1,18 @@
+The most important package is bundler
+    which helps us to bundle or compress our code before sending it to the production.
+    when we use create react app it uses webpack as a bundler in the backend 
+
+Types of dependencies(packages):
+    -Dev dependencies
+    -normal dependencies
+
+Installing dependencies into our project:
+    for example npm install -D parcel
+    why -D?
+        Because we wants to download the developement phase dependecy not the production phase dependency 
+
+"parcel": "^2.15.2": what is ^?:
+    we can also write it as a  ~2.15.2
+    whats the difference for an exmple current version is 2.15.2
+    now we have ^ and the version updated to 2.15.4 so ^ will update but ~ will not update minor update,
+    now we have ~ and the version updated to 3.1.1 so ~ will update but the ^ will not update the major verison 
